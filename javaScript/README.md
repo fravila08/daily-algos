@@ -1,1 +1,3 @@
-# JavaScript Algorithms will be placed here
+# JavaScript Algorithms
+
+- [Happy G's](./happyG/)

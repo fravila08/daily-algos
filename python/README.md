@@ -1,1 +1,3 @@
-# Python Algorithms will be placed here
+# Python Algorithms
+
+- [Perfect Square](./perfect_square/)
